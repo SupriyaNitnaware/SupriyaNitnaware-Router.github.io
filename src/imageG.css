@@ -1,0 +1,35 @@
+body{
+    /* background-color: ; */
+  background: #d0e3c1;
+}
+
+/* h1{
+    margin-left: 35%;
+    border: 2px solid rgb(23, 23, 26);
+    border-radius: 10px;
+    width: 350px;
+    height: 35px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(12, 13, 14) ;
+} */
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.gallary{
+  margin:  20px;
+  border: 1px solid rgb(135, 176, 196);
+  float: left;
+  width: 380px;
+  text-align: center;
+}
+
+.des{
+    padding: 15px;
+    text-align: center;
+    background-color: #fff;
+}
